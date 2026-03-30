@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
@@ -18,8 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -29,16 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -46,32 +46,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -79,34 +79,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
