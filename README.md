@@ -100,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 |  |
