@@ -164,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,4 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
