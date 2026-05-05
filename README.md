@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
