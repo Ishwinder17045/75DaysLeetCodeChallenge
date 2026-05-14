@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
