@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
+| [0621-task-scheduler](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
