@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
