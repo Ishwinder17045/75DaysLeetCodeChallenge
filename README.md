@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
