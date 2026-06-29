@@ -435,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Ishwinder17045/75DaysLeetCodeChallenge/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
